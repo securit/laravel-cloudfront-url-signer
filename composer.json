@@ -18,8 +18,8 @@
     }
   ],
   "require": {
-    "php": "^7.1.3",
-    "illuminate/support": "^6.0|^7.0",
+    "php": "^7.3",
+    "illuminate/support": "^6.0|^7.0|^8",
     "aws/aws-sdk-php": "^3.52"
   },
   "require-dev": {
